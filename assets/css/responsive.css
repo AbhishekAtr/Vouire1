@@ -1,0 +1,181 @@
+@media only screen and (max-width: 767px) {
+    .navbar-brand {
+        margin: 0;
+    }
+    .mt_cart_work {
+        margin-top: 0px;
+    }
+    .mt_cart_section {
+        margin-top: 0px;
+    }
+    .arrow_right i {
+        display: none;
+    }
+    .border_area_1 {
+        display: none;
+    }
+    .increase_top i {
+        display: none;
+    }
+    .arrow_left i {
+        display: none;
+    }
+    .main_col_row {
+        padding: 0px;
+    }
+    .offset_ml_0 {
+        margin-left: 0px;
+    }
+    .work_process_1 {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .work_process_2 img {
+        margin-top: 0px;
+    }
+    .technology_absolute_1 {
+        position: static;
+    }
+    .work_detail_main {
+        transform: translateY(-0px);
+    }
+    .technology_heading {
+        padding-top: 30px;
+    }
+    .technology_cart {
+        height: auto !important;
+    }
+    .a_client_1 {
+        height: auto;
+        margin-bottom: 30px;
+    }
+    .a_about_n2 {
+        padding-top: 30px;
+    }
+    .a_service_1 img {
+        height: auto;
+    }
+    .only_desktop {
+        display: none;
+    }
+    .only_mobile {
+        display: block;
+    }
+    .a_dialog {
+        min-width: auto;
+        max-width: auto;
+        width: auto;
+    }
+    #myModalEnquiry {
+        padding-right: 0px !important;
+    }
+    .header-left {
+        left: 0;
+    }
+}
+
+@media screen and (max-width: 1024px) and (min-width: 768px) {
+    .offset_ml_0 {
+        margin-left: 0px;
+    }
+    .border_area_1 {
+        display: none;
+    }
+    .increase_top i {
+        display: none;
+    }
+    .arrow_left i {
+        display: none;
+    }
+    .border_area_2 {
+        display: none;
+    }
+    .our_work_1 {
+        margin-left: 59px;
+        text-align: left;
+    }
+    .work_process_2 img {
+        width: 40px;
+        position: absolute;
+        left: 15px;
+        margin-top: 0px;
+    }
+    .work_ml_0 {
+        margin-left: 0px !important;
+    }
+    .mt_cart_work {
+        margin-top: 0;
+        min-height: 164px;
+    }
+    .work_mrg_t15 {
+        margin-top: 0px;
+    }
+    .main_col_row {
+        padding-top: 0px;
+    }
+    .mt_cart_section {
+        margin-top: 0px;
+    }
+    .main_col_row {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .work_process_1 {
+        margin-bottom: 30px;
+    }
+    .work_detail_1 {
+        padding: 10px;
+        margin: 70px 4px 0px 8px;
+    }
+    .work_flax_area {
+        padding: 27px 0px;
+        padding-bottom: 0px;
+    }
+    .work_flax_area i {
+        margin-right: 5px;
+        width: 30px;
+        height: 30px;
+        min-width: 30px;
+        line-height: 30px;
+        padding: 0;
+        font-size: 17px !important;
+    }
+    .work_flax_area h3 {
+        font-size: 12px;
+    }
+    .testimonial-section h4 {
+        font-size: 33px;
+    }
+    .testimonial-section .testimonial-right .owl-nav {
+        bottom: 15%;
+    }
+    .social-links li {
+        margin-right: 5px;
+    }
+    .about_img_ipad_hide {
+        display: none;
+    }
+    .a_about_n2 p {
+        max-width: 100%;
+    }
+    .a_about_n2 {
+        text-align: center;
+    }
+    .a_dialog {
+        min-width: 100%;
+        max-width: 100%;
+        width: 100%;
+    }
+    #myModalEnquiry {
+        padding-right: 0px !important;
+    }
+    .navbar-brand {
+        margin-left: 50px;
+    }
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1025px) {
+    .navbar-brand {
+        margin-left: 125px;
+    }
+}
