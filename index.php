@@ -21,7 +21,7 @@
             solution. We provide full supports from the management of your system to building your strategy and
             accompany you as your business grows and changes.
           </p>
-          <a class="btn-style" href="#">Geeting Started</a>
+          <a class="btn-style" href="#" data-toggle="modal" data-target="#myModalEnquiry">Geeting Started</a>
         </div>
         <div class="col-lg-5 header-right order-lg-2 order-md-1 order-1">
           <img class="img-fluid" src="assets/img/header-right-img.png" alt="" />
@@ -36,7 +36,6 @@
             Our marketing experts our quite familiar with the algorithms of google
             for ranking a website. We help you rank up an be more discoverable.
           </p>
-          <a class="btn-style" href="#">Geeting Started</a>
         </div>
         <div class="col-lg-6 header-right order-lg-2 order-md-1 order-1">
           <img class="img-fluid" src="assets/img/about-left-img.png" alt="" />
@@ -50,7 +49,6 @@
           <p>
             A custom website development with quality assurance work to develop world-class website.
           </p>
-          <a class="btn-style" href="#">Geeting Started</a>
         </div>
         <div class="col-lg-6 header-right order-lg-2 order-md-1 order-1">
           <img class="img-fluid" src="assets/img/img1.png" alt="" />
@@ -76,7 +74,7 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-4">
           <div class="single-service">
             <div class="icon-wrap">
               <i class="icofont-chart-bar-graph"></i>
@@ -91,6 +89,56 @@
               <h4>DIGITAL MARKETING</h4>
               <p>We are the professionals for designing an engaging website. Our websites
                 run seamlessly on all the platforms giving the users an easy access.</p>
+              <a href="#">Details Here</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="single-service">
+            <div class="icon-wrap">
+              <i class="icofont-ui-network"></i>
+              <svg viewBox="0 0 384 307" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g fill="#e6effc" fill-rule="nonzero">
+                  <path d="M307.5,14 C349.3,37.1 386.4,93.1 383.1,152.9 C379.8,212.7 336.1,276.2 279.3,297.9 C222.5,319.6 152.6,299.5 95.5,266.7 C38.4,233.9 -5.9,188.4 0.8,150.6 C7.5,112.7 65.2,82.4 102.4,60.4 C139.6,38.4 156.3,24.7 187.9,12.9 C219.4,1 265.8,-9 307.5,14 Z">
+                  </path>
+                </g>
+              </svg>
+              <svg viewBox="0 0 384 307" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g fill="#e6effc" fill-rule="nonzero">
+                  <path d="M307.5,14 C349.3,37.1 386.4,93.1 383.1,152.9 C379.8,212.7 336.1,276.2 279.3,297.9 C222.5,319.6 152.6,299.5 95.5,266.7 C38.4,233.9 -5.9,188.4 0.8,150.6 C7.5,112.7 65.2,82.4 102.4,60.4 C139.6,38.4 156.3,24.7 187.9,12.9 C219.4,1 265.8,-9 307.5,14 Z">
+                  </path>
+                </g>
+              </svg>
+            </div>
+            <div class="service-details">
+              <h4>WEBSITE DEVELOPMENT</h4>
+              <p>We are the professionals for designing an engaging website. Our websites
+                run seamlessly on all the platforms giving the users an easy acces.</p>
+              <a href="#">Details Here</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="single-service">
+            <div class="icon-wrap">
+              <i class="icofont-ui-network"></i>
+              <svg viewBox="0 0 384 307" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g fill="#e6effc" fill-rule="nonzero">
+                  <path d="M307.5,14 C349.3,37.1 386.4,93.1 383.1,152.9 C379.8,212.7 336.1,276.2 279.3,297.9 C222.5,319.6 152.6,299.5 95.5,266.7 C38.4,233.9 -5.9,188.4 0.8,150.6 C7.5,112.7 65.2,82.4 102.4,60.4 C139.6,38.4 156.3,24.7 187.9,12.9 C219.4,1 265.8,-9 307.5,14 Z">
+                  </path>
+                </g>
+              </svg>
+              <svg viewBox="0 0 384 307" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g fill="#e6effc" fill-rule="nonzero">
+                  <path d="M307.5,14 C349.3,37.1 386.4,93.1 383.1,152.9 C379.8,212.7 336.1,276.2 279.3,297.9 C222.5,319.6 152.6,299.5 95.5,266.7 C38.4,233.9 -5.9,188.4 0.8,150.6 C7.5,112.7 65.2,82.4 102.4,60.4 C139.6,38.4 156.3,24.7 187.9,12.9 C219.4,1 265.8,-9 307.5,14 Z">
+                  </path>
+                </g>
+              </svg>
+            </div>
+            <div class="service-details">
+              <h4>Software Development</h4>
+              <p>We are the professionals for designing an engaging website. Our websites
+                run seamlessly on all the platforms giving the users an easy acces.</p>
               <a href="#">Details Here</a>
             </div>
           </div>
@@ -113,7 +161,32 @@
               </svg>
             </div>
             <div class="service-details">
-              <h4>WEBSITE DEVELOPMENT</h4>
+              <h4>Mobile Application</h4>
+              <p>We are the professionals for designing an engaging website. Our websites
+                run seamlessly on all the platforms giving the users an easy acces.</p>
+              <a href="#">Details Here</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="single-service">
+            <div class="icon-wrap">
+              <i class="icofont-ui-network"></i>
+              <svg viewBox="0 0 384 307" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g fill="#e6effc" fill-rule="nonzero">
+                  <path d="M307.5,14 C349.3,37.1 386.4,93.1 383.1,152.9 C379.8,212.7 336.1,276.2 279.3,297.9 C222.5,319.6 152.6,299.5 95.5,266.7 C38.4,233.9 -5.9,188.4 0.8,150.6 C7.5,112.7 65.2,82.4 102.4,60.4 C139.6,38.4 156.3,24.7 187.9,12.9 C219.4,1 265.8,-9 307.5,14 Z">
+                  </path>
+                </g>
+              </svg>
+              <svg viewBox="0 0 384 307" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g fill="#e6effc" fill-rule="nonzero">
+                  <path d="M307.5,14 C349.3,37.1 386.4,93.1 383.1,152.9 C379.8,212.7 336.1,276.2 279.3,297.9 C222.5,319.6 152.6,299.5 95.5,266.7 C38.4,233.9 -5.9,188.4 0.8,150.6 C7.5,112.7 65.2,82.4 102.4,60.4 C139.6,38.4 156.3,24.7 187.9,12.9 C219.4,1 265.8,-9 307.5,14 Z">
+                  </path>
+                </g>
+              </svg>
+            </div>
+            <div class="service-details">
+              <h4>Graphics Designing</h4>
               <p>We are the professionals for designing an engaging website. Our websites
                 run seamlessly on all the platforms giving the users an easy acces.</p>
               <a href="#">Details Here</a>
@@ -427,7 +500,7 @@
   </section> -->
   <!-- End testimonial section -->
   <!-- start our client section -->
-  <section class="a_client_main">
+  <!-- <section class="a_client_main">
     <div class="container">
       <div class="row d-flex justify-content-center">
         <div class="col-lg-8 col-md-10 section-title-wrap">
@@ -481,7 +554,7 @@
           </div>
         </div>
       </div>
-      <!-- <div class="row">
+       <div class="row">
         <div class="col-md-3">
           <div class="a_client_1">
             <img src="assets/img/c1.jpg">
@@ -502,9 +575,9 @@
             <img src="assets/img/c4.png">
           </div>
         </div>
-      </div> -->
+      </div>
     </div>
-  </section>
+  </section> -->
   <!-- End our client section -->
 
   <!-- Start brand-logo section -->

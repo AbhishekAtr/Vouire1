@@ -355,9 +355,10 @@ button {
     display: block;
 }
 
-.navbar ul {
-    text-align: right;
-}
+
+/* .navbar ul {
+    text-align: center;
+} */
 
 .navbar ul li {
     display: inline-block;
@@ -2436,3 +2437,32 @@ button {
 .header-left {
     left: 10%;
 }
+
+.mobile-submenu {
+    display: none !important;
+}
+
+.digital-submenu {
+    display: none !important;
+}
+
+.graphics-submenu {
+    display: none !important;
+}
+
+.drop-mobile:hover .mobile-submenu {
+    display: block !important;
+}
+
+.drop-digital:hover .digital-submenu {
+    display: block !important;
+}
+
+.drop-graphics:hover .graphics-submenu {
+    display: block !important;
+}
+
+
+/* .submenu {
+    min-width: 15rem !important;
+} */

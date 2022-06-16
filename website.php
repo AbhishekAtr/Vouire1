@@ -42,7 +42,7 @@
             #1 list of custom website design provider agency.In Spite of being just a two years old startup it is 
             being counted among top Development companies, is trusted by its customers for secure and unmatchable web design 
             services and is respected by other organization. We are CMMI Level 3 certified development company. Connect with 
-            experts at <strong>(+91 - 1234567890)</strong> or <strong>( sales@abc.com)</strong>. You will get best solutions to all your business problems.
+            experts at <strong>(+91-9354494685)</strong> or <strong>(info@vouivre.com)</strong>. You will get best solutions to all your business problems.
             </p>
             <!-- <h4>How We Work</h4>
             <div class="row works-wrap">

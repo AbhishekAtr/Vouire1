@@ -54,7 +54,7 @@
           </li>
           <li>
             <i class="fa fa-envelope"></i>
-            <p> <a href="mailto:support@vouiber.com">support@vouiber.com</a>  <a href="mailto:info@vouiber.com">info@vouiber.com</a> </p>
+            <p> <a href="mailto:support@vouivre.com">support@vouivre.com</a>  <a href="mailto:info@vouivre.com">info@vouivre.com</a> </p>
           </li>
         </ul>
       </div>

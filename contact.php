@@ -94,8 +94,8 @@
               Phone : <a href="tel:+91-9354494685">+91-9354494685</a>
               <br />
               Support:
-              <a href="mailto:support@vouiber.com">support@vouiber.com</a>
-              <a href="mailto:info@vouiber.com">info@vouiber.com</a>
+              <a href="mailto:support@vouivre.com">support@vouivre.com</a>
+              <a href="mailto:info@vouivre.com">info@vouivre.com</a>
             </p>
           </div>
         </div>
